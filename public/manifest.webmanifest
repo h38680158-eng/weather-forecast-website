@@ -1,0 +1,17 @@
+{
+  "name": "Skyward — Weather Forecast",
+  "short_name": "Skyward",
+  "description": "Premium weather dashboard with live forecasts, air quality, maps, AI outfit tips and more.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b1026",
+  "theme_color": "#0b1026",
+  "categories": ["weather", "utilities", "lifestyle"],
+  "icons": [
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" }
+  ]
+}
